@@ -1,6 +1,5 @@
 var express = require('express');
 var socket = require('socket.io');
-var request = require('request');
 var fs = require("fs");
 var items = require('./data.json');
 
